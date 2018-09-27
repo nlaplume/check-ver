@@ -10,15 +10,7 @@ npm install check-ver --save-dev
 yarn add check-ver
 ```
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
+### Using
 
 
 ```
@@ -28,11 +20,11 @@ checkVer.validateVersions('webpack', 'Please update your dependencies');
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning
 
 ## Authors
 
-* **Nicolas Laplumen** - *Initial work* - [nlaplume](https://github.com/nlaplume)
+* **Nicolas Laplume** - *Initial work* - [nlaplume](https://github.com/nlaplume)
 
 ## License
 

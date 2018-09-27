@@ -8,9 +8,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "chai": "4.1.2",
-    "mocha": "5.2.0",
     "semver": "5.5.1"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.2.0"
   },
   "scripts": {
     "test": "mocha"
